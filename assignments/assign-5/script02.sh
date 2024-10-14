@@ -31,3 +31,10 @@ do
 done
 
 
+#!/BIN/BASH
+# dISPLAY LOGIN NAME AND HOME DIRECTORY
+
+ECHO "lOGIN NAME : $user"
+
+ECHO "hOME DIRECTORY : $home"
+
